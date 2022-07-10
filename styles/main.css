@@ -49,10 +49,18 @@ ul li:hover ul li {
 
 .article {
   background-color: rgb(246, 239, 234);
-  width: 700px;
+  width: 1200px;
+  font-size: 30px;
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
   border: 1px rgb(255,0,0);
   padding: 10px 50px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1200px) {
+  .article {
+    width: 60%
+  }
 }
 
 .pic {
