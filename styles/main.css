@@ -49,8 +49,8 @@ ul li:hover ul li {
 
 .article {
   background-color: rgb(246, 239, 234);
-  width: 1200px;
-  font-size: 30px;
+  width: 1000px;
+  font-size: 22px;
   font-family: Calibri, 'Trebuchet MS', sans-serif;
   border: 1px rgb(255,0,0);
   padding: 10px 50px;
