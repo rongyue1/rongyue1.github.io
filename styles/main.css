@@ -48,8 +48,7 @@ ul li:hover ul li {
 }
 
 .article {
-  /* background-color: rgb(246, 239, 234); */
-  background-color: rgb(255, 108, 3);
+  background-color: rgb(246, 239, 234);
   width: 1000px;
   font-size: 22px;
   font-family: Calibri, 'Trebuchet MS', sans-serif;
@@ -58,11 +57,11 @@ ul li:hover ul li {
   margin: 0 auto;
 }
 
-/* @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .article {
     width: 60%
   }
-} */
+}
 
 .pic {
   text-align: center;
